@@ -71,12 +71,12 @@ logo = """
 \033[1;92m           ▇▇▇◣╲▇╱◢▇▇▇
 \033[1;92m           ▇▇▇▇◣▇◢▇▇▇▇
 
-\033[1;97m✮❂❂❂❂❂✮\033[1;91mWhite-Tiger-Komail\033[1;97m✮❂❂❂❂❂✮
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/H-India
-\033[1;97m✮❂❂❂❂❂✮\033[1;91mWhite-Tiger-Komail\033[1;97m✮❂❂❂❂❂✮      """
+\033[1;97m✮❂❂❂❂❂✮❂❂❂❂✮☞\033[1;91mWhite-Tiger-Komail\033[1;97m☜✮❂❂❂❂✮❂❂❂❂❂✮
+\033[1;96m   ❂❂❂❂✮☞  Author  \033[1;93m: \033[1;92mKomail Khan ☜✮❂❂❂❂
+\033[1;96m   ❂❂❂❂✮☞  Instagram \033[1;93m: \033[1: itx_muskan_yr ☜✮❂❂❂❂
+\033[1;96m   ❂❂❂❂✮☞  Facebook  \033[1;93m: \033[1: komail.khan.3781 ☜✮❂❂❂❂
+\033[1;96m   ❂❂❂❂✮☞  Github \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/H-India ☜✮❂❂❂❂
+\033[1;97m✮❂❂❂❂❂✮❂❂❂❂✮☞\033[1;91mWhite-Tiger-Komail\033[1;97m☜✮❂❂❂❂✮❂❂❂❂❂✮      """
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -94,7 +94,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\033[1;97m✮❂❂❂❂❂✮\033[1;91mWhite-Tiger-Komail\033[1;97m✮❂❂❂❂❂✮"
+print "\033[1;97m✮❂❂❂❂❂✮❂❂❂❂✮☞\033[1;91mWhite-Tiger-Komail\033[1;97m☜✮❂❂❂❂✮❂❂❂❂❂✮"
 print  """
 \033[1;92m██╗░░██╗░█████╗░███╗░░░███╗░█████╗░██╗██╗░░░░░
 \033[1;97m██║░██╔╝██╔══██╗████╗░████║██╔══██╗██║██║░░░░░
@@ -112,12 +112,12 @@ print  """
 \033[1;92m           ▇▇▇◣╲▇╱◢▇▇▇
 \033[1;92m           ▇▇▇▇◣▇◢▇▇▇▇
 \033[1;95m          WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;97mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;95mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;92mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/H-india
-\033[1;97m✮❂❂❂❂❂✮\033[1;91mWhite-Tiger-Komail\033[1;97m✮❂❂❂❂❂✮"""
-print " \x1b[1;93m✮❂❂❂❂❂❂❂❂❂✮White-Tiger✮❂❂❂❂❂❂❂❂❂✮"
+\033[1;96m   ❂❂❂❂✮☞ Author  \033[1;93m: \033[1;92mKomail Khan ☜✮❂❂❂❂
+\033[1;97m   ❂❂❂❂✮☞ Instagram \033[1;93m: \033[1;92mitx_muskan_yr ☜✮❂❂❂❂
+\033[1;95m   ❂❂❂❂✮☞ Facebook  \033[1;93m: \033[1;92m komail.khan.3781 ☜✮❂❂❂❂
+\033[1;92m   ❂❂❂❂✮☞ Github \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/H-india ☜✮❂❂❂❂
+\033[1;97m✮❂❂❂❂❂✮❂❂❂❂✮☞\033[1;91mWhite-Tiger-Komail\033[1;97m☜✮❂❂❂❂✮❂❂❂❂❂✮"""
+print " \x1b[1;93m✮❂❂❂❂❂❂❂❂❂✮❂❂❂❂✮☞White-Tiger☜✮❂❂❂❂✮❂❂❂❂❂❂❂❂❂✮"
 
 CorrectUsername = "komail"
 CorrectPassword = "khan"
